@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\casie\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\casie\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_BalloonUnityProject.1264941346.00" t="ExcludeRecursive" />
+    <e p="E:\Repos\BalloonUnity\BalloonUnity\BalloonUnityProject" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="MTree" t="Include">
+          <e p="Editor" t="Include">
+            <e p="BranchEditor.cs" t="Include" />
+            <e p="MenuItem.cs" t="Include" />
+            <e p="MtreeEditor.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="LeafPoint.cs" t="Include" />
+            <e p="MTree.cs" t="Include" />
+            <e p="MtreeComponent.cs" t="Include" />
+            <e p="MtreeVariables.cs" t="Include" />
+            <e p="MtreeWind.cs" t="Include" />
+            <e p="Node.cs" t="Include" />
+            <e p="RaycastAo.cs" t="Include" />
+            <e p="SimplexNoise.cs" t="Include" />
+            <e p="Splines.cs" t="Include" />
+            <e p="TreeBilboard.cs" t="Include" />
+            <e p="TreeFunctions.cs" t="Include" />
+            <e p="TreePoint.cs" t="Include" />
+            <e p="Utils.cs" t="Include" />
+          </e>
+          <e p="shaders" t="Include">
+            <e p="Bark.shader" t="Include" />
+            <e p="Billboard.shader" t="Include" />
+            <e p="BranchEditorBark.shader" t="Include" />
+            <e p="BranchEditorLeafs.shader" t="Include" />
+            <e p="Leafs.shader" t="Include" />
+            <e p="Normal.shader" t="Include" />
+            <e p="VS_indirect.cginc" t="Include" />
+            <e p="VSProIntegration.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="BalloonUnityProject.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
