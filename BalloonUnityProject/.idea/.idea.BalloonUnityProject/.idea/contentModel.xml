@@ -1,12 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\casie\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\casie\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_BalloonUnityProject.1264941346.00" t="ExcludeRecursive" />
-    <e p="E:\Repos\BalloonUnity\BalloonUnity\BalloonUnityProject" t="IncludeRecursive">
+    <e p="C:\Users\10864830\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\10864830\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_BalloonUnityProject.-1014019366.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10864830\Documents\Repos\BalloonUnity\BalloonUnity\BalloonUnityProject" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Houdini" t="Include">
+          <e p="Editor" t="Include">
+            <e p="HoudiniAssetGUI.cs" t="Include" />
+            <e p="HoudiniAssetGUICurve.cs" t="Include" />
+            <e p="HoudiniAssetGUIInput.cs" t="Include" />
+            <e p="HoudiniAssetGUIMerger.cs" t="Include" />
+            <e p="HoudiniAssetGUIOTL.cs" t="Include" />
+            <e p="HoudiniAssetGUIOTLHandle.cs" t="Include" />
+            <e p="HoudiniAssetModificationProcessor.cs" t="Include" />
+            <e p="HoudiniCurveGUI.cs" t="Include" />
+            <e p="HoudiniGeoAttributeManagerGUI.cs" t="Include" />
+            <e p="HoudiniGeoControlGUI.cs" t="Include" />
+            <e p="HoudiniGUI.cs" t="Include" />
+            <e p="HoudiniGUIUtility.cs" t="Include" />
+            <e p="HoudiniInstanceGUI.cs" t="Include" />
+            <e p="HoudiniInstancerGUI.cs" t="Include" />
+            <e p="HoudiniInstancerManagerGUI.cs" t="Include" />
+            <e p="HoudiniMenu.cs" t="Include" />
+            <e p="HoudiniObjectControlGUI.cs" t="Include" />
+            <e p="HoudiniParmsGUI.cs" t="Include" />
+            <e p="HoudiniPartControlGUI.cs" t="Include" />
+            <e p="HoudiniWindowDebug.cs" t="Include" />
+            <e p="HoudiniWindowSettings.cs" t="Include" />
+            <e p="TestGUI.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="HoudiniAsset.cs" t="Include" />
+            <e p="HoudiniAssetCurve.cs" t="Include" />
+            <e p="HoudiniAssetInput.cs" t="Include" />
+            <e p="HoudiniAssetMerger.cs" t="Include" />
+            <e p="HoudiniAssetOTL.cs" t="Include" />
+            <e p="HoudiniAssetUndoInfo.cs" t="Include" />
+            <e p="HoudiniAssetUtility.cs" t="Include" />
+            <e p="HoudiniCommon.cs" t="Include" />
+            <e p="HoudiniControl.cs" t="Include" />
+            <e p="HoudiniCurve.cs" t="Include" />
+            <e p="HoudiniDataFile.cs" t="Include" />
+            <e p="HoudiniGeoAttribute.cs" t="Include" />
+            <e p="HoudiniGeoAttributeManager.cs" t="Include" />
+            <e p="HoudiniGeoAttributeManagerMap.cs" t="Include" />
+            <e p="HoudiniGeoControl.cs" t="Include" />
+            <e p="HoudiniHost.cs" t="Include" />
+            <e p="HoudiniHostGraphics.cs" t="Include" />
+            <e p="HoudiniHostImports.cs" t="Include" />
+            <e p="HoudiniHostLinker.cs" t="Include" />
+            <e p="HoudiniHostSession.cs" t="Include" />
+            <e p="HoudiniHostStrings.cs" t="Include" />
+            <e p="HoudiniHostUndoInfo.cs" t="Include" />
+            <e p="HoudiniHostWrappers.cs" t="Include" />
+            <e p="HoudiniInstance.cs" t="Include" />
+            <e p="HoudiniInstancer.cs" t="Include" />
+            <e p="HoudiniInstancerManager.cs" t="Include" />
+            <e p="HoudiniInstancerOverrideInfo.cs" t="Include" />
+            <e p="HoudiniInstancerPersistentData.cs" t="Include" />
+            <e p="HoudiniJSONObject.cs" t="Include" />
+            <e p="HoudiniMap.cs" t="Include" />
+            <e p="HoudiniObjectControl.cs" t="Include" />
+            <e p="HoudiniParms.cs" t="Include" />
+            <e p="HoudiniParmsUndoInfo.cs" t="Include" />
+            <e p="HoudiniPartControl.cs" t="Include" />
+            <e p="HoudiniPreset.cs" t="Include" />
+            <e p="HoudiniPresetMap.cs" t="Include" />
+            <e p="HoudiniProgressBar.cs" t="Include" />
+            <e p="HoudiniSetPath.cs" t="Include" />
+            <e p="HoudiniVersion.cs" t="Include" />
+            <e p="TestScript.cs" t="Include" />
+          </e>
+          <e p="shaders" t="Include">
+            <e p="HoudiniAlphaSpecularVertexColor.shader" t="Include" />
+            <e p="HoudiniCurvePoint.shader" t="Include" />
+            <e p="HoudiniDottedLine.shader" t="Include" />
+            <e p="HoudiniLine.shader" t="Include" />
+            <e p="HoudiniMeshPoint.shader" t="Include" />
+            <e p="HoudiniSpecularVertexColor.shader" t="Include" />
+            <e p="HoudiniVolumeSurface.shader" t="Include" />
+          </e>
+        </e>
+        <e p="HoudiniApi" t="Include">
+          <e p="Editor" t="Include">
+            <e p="HoudiniApiAssetAccessorExampleGUI.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="HoudiniApiAssetAccessor.cs" t="Include" />
+            <e p="HoudiniApiAssetAccessorExample.cs" t="Include" />
+            <e p="HoudiniApiAssetHook.cs" t="Include" />
+          </e>
+        </e>
         <e p="MTree" t="Include">
           <e p="Editor" t="Include">
             <e p="BranchEditor.cs" t="Include" />
@@ -39,14 +126,14 @@
             <e p="VSProIntegration.cs" t="Include" />
           </e>
         </e>
+        <e p="Scripts" t="Include">
+          <e p="Particles.cs" t="Include" />
+        </e>
       </e>
       <e p="BalloonUnityProject.sln" t="IncludeFlat" />
-      <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
-      <e p="Temp" t="ExcludeRecursive">
-        <e p="bin" t="ExcludeRecursive" />
-      </e>
+      <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
   </component>
 </project>
