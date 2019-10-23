@@ -145,7 +145,11 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-    excludedTargetPlatforms: []
+    excludedTargetPlatforms:
+    - Standalone
+    - iPhone
+    - Android
+    - WebGL
   - serializedVersion: 2
     name: Very High
     pixelLightCount: 3
@@ -182,6 +186,9 @@ QualitySettings:
     resolutionScalingFixedDPIFactor: 1
     excludedTargetPlatforms:
     - Standalone
+    - WebGL
+    - Android
+    - iPhone
   - serializedVersion: 2
     name: Ultra
     pixelLightCount: 4
@@ -218,6 +225,9 @@ QualitySettings:
     resolutionScalingFixedDPIFactor: 1
     excludedTargetPlatforms:
     - Standalone
+    - iPhone
+    - Android
+    - WebGL
   m_PerPlatformDefaultQuality:
     Android: 2
     Lumin: 5
