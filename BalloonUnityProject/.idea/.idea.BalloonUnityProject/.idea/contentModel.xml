@@ -96,6 +96,10 @@
             <e p="HoudiniApiAssetHook.cs" t="Include" />
           </e>
         </e>
+        <e p="Renderuing" t="Include">
+          <e p="BoolData.cs" t="Include" />
+          <e p="RenderMatte.cs" t="Include" />
+        </e>
         <e p="SampleScenes" t="Include">
           <e p="Menu" t="Include">
             <e p="Scripts" t="Include">

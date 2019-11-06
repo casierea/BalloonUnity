@@ -15,13 +15,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Particles.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Renderuing/BoolData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Renderuing/RenderMatte.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Particles.cs" />
+        <option value="$PROJECT_DIR$/Assets/Renderuing/RenderMatte.cs" />
+        <option value="$PROJECT_DIR$/Assets/Renderuing/BoolData.cs" />
       </list>
     </option>
   </component>
@@ -80,6 +83,7 @@
       <workItem from="1570644269694" duration="392000" />
       <workItem from="1572107365299" duration="175000" />
       <workItem from="1572896504738" duration="1553000" />
+      <workItem from="1573068882815" duration="260000" />
     </task>
     <servers />
   </component>
