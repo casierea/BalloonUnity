@@ -181,7 +181,6 @@ QualitySettings:
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
     excludedTargetPlatforms:
-    - Standalone
     - WebGL
     - Android
     - iPhone
@@ -220,7 +219,6 @@ QualitySettings:
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
     excludedTargetPlatforms:
-    - Standalone
     - iPhone
     - Android
     - WebGL
